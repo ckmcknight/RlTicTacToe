@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RlTicTacToe</string>
+    <string name="new_game_button_name">New Game</string>
+    <string name="view_stats_button_name">View Stats</string>
+    <string name="title">Reinforment Learning \n Tic Tac Toe</string>
+    <string name="game_title">New Round</string>
+    <string name="stats_title">Stats</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="space"> </string>
+    <string name="home_screen_button_name"> Home Screen </string>
+    <string name="play_again_button_name"> Play Again </string>
+
+</resources>
