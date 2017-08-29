@@ -1,4 +1,4 @@
-package Model.util;
+package com.ckmcknight.android.rltictactoe.Model.util;
 
 import java.util.List;
 

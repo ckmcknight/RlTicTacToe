@@ -1,12 +1,12 @@
-package Model.TicTacToeGame;
+package com.ckmcknight.android.rltictactoe.Model.TicTacToeGame;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import Model.util.InvalidMoveException;
-import Model.util.Player;
-import Model.util.State;
+import com.ckmcknight.android.rltictactoe.Model.util.InvalidMoveException;
+import com.ckmcknight.android.rltictactoe.Model.util.Player;
+import com.ckmcknight.android.rltictactoe.Model.util.State;
 
 /**
  * Created by charlie on 5/19/17.

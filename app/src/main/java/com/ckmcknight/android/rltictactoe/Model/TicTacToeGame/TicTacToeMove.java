@@ -1,4 +1,4 @@
-package Model.TicTacToeGame;
+package com.ckmcknight.android.rltictactoe.Model.TicTacToeGame;
 
 import java.util.Arrays;
 

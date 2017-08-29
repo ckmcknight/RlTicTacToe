@@ -1,7 +1,4 @@
-package Model.util;
-
-import Model.TicTacToeGame.TicTacToeMove;
-import Model.util.State;
+package com.ckmcknight.android.rltictactoe.Model.util;
 
 /**
  * Created by charlie on 5/21/17.

@@ -1,9 +1,9 @@
-package Model.TicTacToeGame;
+package com.ckmcknight.android.rltictactoe.Model.TicTacToeGame;
 
 import java.util.Scanner;
 
-import Model.util.Player;
-import Model.util.State;
+import com.ckmcknight.android.rltictactoe.Model.util.Player;
+import com.ckmcknight.android.rltictactoe.Model.util.State;
 
 /**
  * Created by charlie on 5/21/17.

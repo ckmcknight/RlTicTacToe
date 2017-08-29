@@ -1,4 +1,4 @@
-package Model.TicTacToeGame;
+package com.ckmcknight.android.rltictactoe.Model.TicTacToeGame;
 
 /**
  * Created by charlie on 5/19/17.

@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.GridLayout;
-import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -16,14 +14,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-import Model.TicTacToeGame.HumanPlayer;
-import Model.TicTacToeGame.Piece;
-import Model.TicTacToeGame.TicTacToeBoard;
-import Model.TicTacToeGame.TicTacToeGame;
-import Model.TicTacToeGame.TicTacToeMove;
-import Model.util.Player;
-
-import static android.R.attr.handle;
+import com.ckmcknight.android.rltictactoe.Model.TicTacToeGame.TicTacToeBoard;
+import com.ckmcknight.android.rltictactoe.Model.TicTacToeGame.TicTacToeGame;
+import com.ckmcknight.android.rltictactoe.Model.TicTacToeGame.TicTacToeMove;
 
 public class GameActivity extends AppCompatActivity {
 

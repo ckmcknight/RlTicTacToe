@@ -1,10 +1,9 @@
-package Model.TicTacToeGame;
+package com.ckmcknight.android.rltictactoe.Model.TicTacToeGame;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import Model.util.Player;
-import Model.util.State;
+import com.ckmcknight.android.rltictactoe.Model.util.Player;
 
 /**
  * Created by charlie on 5/19/17.
