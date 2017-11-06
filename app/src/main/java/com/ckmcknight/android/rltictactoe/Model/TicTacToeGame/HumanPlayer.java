@@ -6,9 +6,8 @@ import com.ckmcknight.android.rltictactoe.Model.util.Player;
 import com.ckmcknight.android.rltictactoe.Model.util.State;
 
 /**
- * Created by charlie on 5/21/17.
+ * Human player for use in game simulations. Not for use with the UI.
  */
-
 public class HumanPlayer implements Player<Piece, TicTacToeMove> {
     private Piece p;
     private Scanner scanner = new Scanner(System.in);
